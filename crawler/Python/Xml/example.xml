@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<root response="True" totalResults="81">
+  <result imdbID="tt0371746" title="Iron Man" type="movie" year="2008"/>
+  <result imdbID="tt1300854" title="Iron Man 3" type="movie" year="2013"/>
+  <result imdbID="tt1228705" title="Iron Man 2" type="movie" year="2010"/>
+  <result imdbID="tt0120744" title="The Man in the Iron Mask" type="movie" year="1998"/>
+  <result imdbID="tt1258972" title="The Man with the Iron Fists" type="movie" year="2012"/>
+  <result imdbID="tt0096251" title="Tetsuo, the Iron Man" type="movie" year="1989"/>
+  <result imdbID="tt3296908" title="The Man with the Iron Heart" type="movie" year="2017"/>
+  <result imdbID="tt0903135" title="The Invincible Iron Man" type="movie" year="2007"/>
+  <result imdbID="tt2654124" title="Iron Man: Rise of Technovore" type="movie" year="2013"/>
+  <result imdbID="tt3625152" title="The Man with the Iron Fists 2" type="movie" year="2015"/>
+</root>
